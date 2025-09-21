@@ -5,7 +5,9 @@ Nexus is a hybrid intelligence platform designed to automate and streamline the 
 The platform is built on a two-stage funnel architecture that balances speed with deep contextual analysis, ensuring cost-effectiveness and high-quality results.
 
 [Access Nexus](https://code4edtechnexus.streamlit.app/)
-[Presentation](https://drive.google.com/drive/u/0/folders/1OMRfNjBtfuVr_6cvzaEcLNDidRyPKBUt)
+
+
+[Submission Presentation](https://drive.google.com/drive/u/0/folders/1OMRfNjBtfuVr_6cvzaEcLNDidRyPKBUt)
 
 ### Key Features
 - Flexible Inputs: The system supports multiple input methods, including single resumes, a batch of multiple files, or a single ZIP archive.
